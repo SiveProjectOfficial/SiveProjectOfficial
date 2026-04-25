@@ -1,16 +1,38 @@
-## Hi there 👋
+# らららって何者なん？  
+はじめまして、もしくはお久しぶりです。  
+らららです。    
+私はなんか⋯色々やってます（そこを説明しろよ）  
+例えば⋯  
+**・足立レイを作った「みさいるさん」に憧れて完全無生物合成音声UTAU音源を3日で作り始める**  
+**・その配布サイトをGitHub Pargesを使って半日で作る（？）**  
+**・最終的に完全無生物合成音声UTAU音源を作れる「Utaun」を作り始める**  
+  
+まぁこんなとこですね。
+#  らららって今まで何してきてたん？
+はい、ここからは私は今まで何してきてたのか書き出してきますね  
 
-<!--
-**SiveProjectOfficial/SiveProjectOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**・なんか色々あって沢山の大人に感謝させられる（察して定期）**  
+**・その大人達のせいで高校でいじめに遭う（！？）**  
+**・いじめに遭わせたのは大人のせいとか思ってたけど自分が原因だということが判明した**  
+**・最早「承認欲求の塊」として色々始めた**  
+↑イマココ！  
+#  そのいじめの原因を含めたらららの特性って！？
+これは単刀直入に言うと⋯  
+**・ADHD**  
+**・ASD**  
+**・1型3色覚**  
+**・円錐角膜**  
+**・シンプルに乱視**  
+**・三尖弁閉鎖不全症（軽症過ぎて存在薄い）**  
+つまり⋯  
 
-Here are some ideas to get you started:
+***<ins>めちゃくちゃ扱いにくい人間<ins>***  
+です。  
+こんな生き物ですがよろしくお願い致します。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+リンク  
+【らららの作った完全無生物合成音声UTAU音源配布サイト】  
+[https://siveprojectofficial.github.io/lalala/]  
+
+完全無生物合成音声UTAU音源が猫でもタコでも作れるWindowsソフト「Utaun」配布ページ  
+[https://github.com/SiveProjectOfficial/Utaun]
